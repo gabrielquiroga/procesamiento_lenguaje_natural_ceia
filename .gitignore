@@ -11,3 +11,7 @@ uv.lock
 venv/
 .venv/
 .env
+
+# Datasets
+songs_dataset/
+songs_dataset.zip

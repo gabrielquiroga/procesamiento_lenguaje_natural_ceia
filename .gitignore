@@ -17,3 +17,8 @@ songs_dataset/
 songs_dataset.zip
 books_dataset/
 books_dataset_d3/
+
+spa-eng/
+spa-eng.zip
+gloveembedding.pkl
+models_traductor/
